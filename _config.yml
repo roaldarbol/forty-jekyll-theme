@@ -1,17 +1,17 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
+title: Små og Store Fodspor
+subtitle: Kom med på eventyr!
 email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+description: Kom med på eventyr! <br> Vi står for planlægning og mad, så du kan være sammen med din familie og nyde naturen.
+baseurl: "/eventyr" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
+city: København NV
+state: 
 zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+country: Danmark
+phone: +45 20320399
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"

@@ -1,9 +1,19 @@
 ---
 layout: page
-title: Elements
-image: assets/images/pic01.jpg
+title: Om os
+description: Hvem er vi?
+image: assets/images/patagonien.jpg
 nav-menu: true
 ---
+
+# Om os: 
+Små & Store Fodspor er en lille dansk virksomhed, der tilbyder ture ud i det vilde Skandinavien. 
+Jeg laver ture for alt fra den lille familie til den hardcore adventure type, der vil ud at nyde den fantastiske natur, der netop er i Skandinavien. 
+Små & Store Fodspor er for dig, der ikke vil vandre i store grupper, og vægter et roligt miljø højt.
+Desuden, tilbyder jeg at skræddersy dit perfekte eventyr, efter dine behov. 
+
+# Din guide: 
+Anders Schønherr, har flere års erfarring  med vandring og planlægning af ture i forskellige steder i verden. Desuden har Anders været på kursus i Argentina (Patagonien) som adventure guide i hiking og klatring. Anders er uddannet pædagog, og bruger det meste af sin fritid på små og store outdoor adventures.
 
 <!-- Main -->
 <div id="main" class="alt">

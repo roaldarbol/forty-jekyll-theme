@@ -1,8 +1,8 @@
 ---
-title: Landing
+title: Turtyper
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
-image: assets/images/pic07.jpg
+description: Opdag hvilke ture vi tilbyder
+image: assets/images/patagonien.jpg
 nav-menu: true
 ---
 
