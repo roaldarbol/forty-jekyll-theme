@@ -3,7 +3,7 @@ title: Små og Store Fodspor
 subtitle: Kom med på eventyr!
 email: youremailaddress@gmail.com
 description: Kom med på eventyr! <br> Vi står for planlægning og mad, så du kan være sammen med din familie og nyde naturen.
-baseurl: "/eventyr" # the subpath of your site, e.g. /blog
+baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address: Frederiksborgevej 84
