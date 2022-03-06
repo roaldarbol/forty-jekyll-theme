@@ -8,7 +8,7 @@
 
 	#banner {
 		@include vendor('align-items', 'center');
-		@include vendor('background-image', 'url("../images/anders.jpg")');
+		@include vendor('background-image', 'url("../images/trees.jpg")');
 		@include vendor('display', 'flex');
 		@include padding(4em, 0, (2em, 0, 0, 0));
 		background-attachment: fixed;
@@ -104,12 +104,13 @@
 			}
 		}
 
-		&.style1 { &:after { background-color: _palette(accent1); } }
-		&.style2 { &:after { background-color: _palette(accent2); } }
-		&.style3 { &:after { background-color: _palette(accent3); } }
-		&.style4 { &:after { background-color: _palette(accent4); } }
-		&.style5 { &:after { background-color: _palette(accent5); } }
-		&.style6 { &:after { background-color: _palette(accent6); } }
+
+		&.style1 { &:after { background-color: _palette(bg); } }
+		&.style2 { &:after { background-color: _palette(accent1); } }
+		&.style3 { &:after { background-color: _palette(accent2); } }
+		&.style4 { &:after { background-color: _palette(accent3); } }
+		&.style5 { &:after { background-color: _palette(accent4); } }
+		&.style6 { &:after { background-color: _palette(accent5); } }
 
 		body.is-loading & {
 			&:after {

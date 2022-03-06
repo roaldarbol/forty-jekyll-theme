@@ -1,0 +1,11 @@
+- title: Forside
+  url: /index.html
+- title: Om os
+  url: /omos.html
+- title: Galleri
+  url: /galleri.html
+- title: Turtyper
+  url: /turtyper.html
+  sublinks:
+    - title: Vandretur
+      url: /tur1.html
